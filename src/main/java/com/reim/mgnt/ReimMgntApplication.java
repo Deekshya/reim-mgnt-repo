@@ -11,7 +11,7 @@ public class ReimMgntApplication {
 
 	@GetMapping("/reachReimMgnt")
 	public String getMessage() {
-		return "Docker Message: You have reached Reim Mgnt!!";
+		return "Docker Message: You have reached Reim Mgnt!!!";
 	}
 	
 	
